@@ -2,7 +2,7 @@
 
 ## This is a simple form app.
 
-## React, CSS, Hooks - useState, useEffect, useCallback, Custom Hook, Firebase
+## React, CSS, Hooks - useState, Custom Hook
 
 ### Demo - https://forms-mep5.onrender.com
 
